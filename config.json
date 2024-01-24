@@ -1,0 +1,3 @@
+{
+	"ConnectionString": "Server=.\\SQLEXPRESS;Database=Practice;Trusted_Connection=True;TrustServerCertificate=True;Integrated Security=True;"
+}
